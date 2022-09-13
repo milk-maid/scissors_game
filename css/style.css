@@ -1,0 +1,15 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Dancing Script', cursive, sans-serif;
+    /* font-family: 'Poppins', sans-serif; */
+    font-weight: normal;
+}
+
+img {
+    max-width: 100%;
+}
